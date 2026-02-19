@@ -1,95 +1,104 @@
-🏚️ Basement Horror
 
-Genre: Horror Prototype
-Engine: Unreal Engine 5.7
+# 🏚️ Basement Horror
 
-A short horror prototype set in a dark basement environment.
-The project focuses on atmosphere, exploration, and basic interaction systems such as door opening, item inspection, and main menu navigation.
+**Genre:** Horror Prototype  
+**Engine:** Unreal Engine 5.7  
+**Platform:** PC (Windows)
 
-📌 Project Overview
+Basement Horror is a short horror prototype focused on atmosphere, lighting, and basic interaction systems inside a basement environment.
 
-Basement Horror is an experimental horror prototype developed using Unreal Engine 5.7.
-The goal of this project is to test and showcase:
+---
 
-Environmental lighting & mood
+## 📌 Project Overview
 
-Basic horror mechanics
+Basement Horror is an experimental horror prototype developed with Unreal Engine 5.7.  
+The project focuses on lighting, level design, and basic gameplay interactions.
 
-Interaction systems
+This is a prototype project and not a full commercial game.
 
-Simple level design flow
+---
 
-This project is still under development and not a full game.
+## 🎮 Features
 
-🎮 Features
+- ✅ Main Menu System  
+- ✅ Light Toggle System (F key)  
+- ✅ Door Interaction  
+- ✅ Item Inspection System  
+- ✅ First Person Controller  
+- ✅ Filled Basement Environment  
 
-✅ Main Menu System
+---
 
-✅ Door Interaction System
+## 🎯 Controls
 
-✅ Item Inspect System
+- **WASD** – Move  
+- **Mouse** – Look Around  
+- **F** – Toggle Lights  
+- **E** – Interact  
 
-✅ Dark Atmospheric Environment
+### Interaction System Variations:
+This project includes **two different interaction styles**:
+- Interaction via looking at objects
+- Interaction via proximity (trigger-based)
 
-✅ First Person Controller
+---
 
-🛠️ Level Design (in progress)
+## 🖥️ Technical Info
 
-🛠️ Sound & Ambient Effects (planned)
+- **Engine:** Unreal Engine 5.7  
+- **Language:** Blueprint  
+- **Project Type:** Prototype  
+- **Target Platform:** Windows PC  
 
-🖥️ Engine & Tools
+---
 
-Engine: Unreal Engine 5.7
+## 📂 Download Versions
 
-Platform: PC (Windows)
+This repository contains two versions of the project:
 
-Language: Blueprint
+- 🎮 **Playable Build (EXE version)**  
+  Located in: `Build/`
 
-Project Type: Prototype
+- 🛠️ **Unreal Engine Project Files**  
+  Located in: `ProjectFiles/`
 
-🚀 How To Run
+---
 
-Install Unreal Engine 5.7
+## 🗂️ Project Structure
 
-Download the repository () :
+<img width="1857" height="861" alt="image" src="https://github.com/user-attachments/assets/d5257850-f4b0-4317-bdff-2fc81701c1c5" />
 
-Open BasementProject.uproject
-
-Press Play
-
-📷 Screenshots
-
-<img width="1837" height="861" alt="image" src="https://github.com/user-attachments/assets/d27f07eb-dcff-4212-8666-2f4d26451ead" />
-
-<img width="1857" height="857" alt="image" src="https://github.com/user-attachments/assets/094083ed-3bf4-4edd-b698-6548dd23ed58" />
-
-
-🧠 Current Goals
-
-Fill and detail the basement environment
-
-Improve lighting and shadows
-
-Add sound design (footsteps, ambience, doors)
-
-Implement basic horror events
-
-Optimize performance
+<img width="1857" height="868" alt="image" src="https://github.com/user-attachments/assets/4bee3e6e-a184-4992-b049-c0e4eb1dc9f3" />
 
 
-⚠️ Disclaimer
+---
 
-This project uses some free game systems/assets for learning and prototyping purposes.
+## 🛠️ How To Run (Project Version)
+
+1. Install Unreal Engine 5.7  
+2. Open `BasementHorror.uproject`  
+3. Press Play
+
+---
+
+## ⚠️ Disclaimer
+
+This project uses free assets and systems for educational and prototyping purposes.  
 All assets belong to their respective creators.
 
-👤 Developer
+---
 
-Developer: Kadirefe Özgen
-Project Name: Basement Horror
-Engine: Unreal Engine 5.7
+## 👤 Developer
+
+**Developer:** Kadir Özgen  
+**Project Name:** Basement Horror  
+**Engine:** Unreal Engine 5.7  
+
+---
+
+## 📄 License
+
+This project is for educational and prototype purposes only.  
+Not intended for commercial use.
 
 
-📄 License
-
-This project is for educational and prototype purposes only.
-Not intended for commercial release.
