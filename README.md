@@ -93,7 +93,7 @@ All assets belong to their respective creators.
 
 ## 👤 Developer
 
-**Developer:** Kadir Özgen  
+**Developer:** Kadirefe Özgen  
 **Project Name:** Basement Horror  
 **Engine:** Unreal Engine 5.7  
 
