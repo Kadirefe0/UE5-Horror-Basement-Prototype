@@ -51,12 +51,9 @@ Project Type: Prototype
 
 Install Unreal Engine 5.7
 
-Clone the repository:
+Download the repository () :
 
-git clone https://github.com/yourusername/BasementHorror.git
-
-
-Open BasementHorror.uproject
+Open BasementProject.uproject
 
 Press Play
 
