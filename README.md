@@ -28,7 +28,8 @@ This is a prototype project and not a full commercial game.
 - ✅ Door Interaction  
 - ✅ Item Inspection System  
 - ✅ First Person Controller  
-- ✅ Filled Basement Environment  
+- ✅ Filled Basement Environment
+- ---and more---
 
 ---
 
